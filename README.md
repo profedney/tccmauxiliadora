@@ -1,3 +1,7 @@
 # TCC Maria Auxiliadora
-* TCC Técnico em Informática escola Maria Auxiliadora
-* WIKI: https://github.com/profedney/tccmauxiliadora/wiki
+
+Este é o repositório do Trabalho de Conclusão de Curso (TCC) do curso Técnico em Informática da Escola Maria Auxiliadora.
+
+## Recursos
+* **WIKI:** [Página Wiki](https://github.com/profedney/tccmauxiliadora/wiki)
+
